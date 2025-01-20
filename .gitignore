@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/Traffic_Back\src\firebase\firebase\firebase.service.ts
+/Traffic_Front\notification-ea157-firebase-adminsdk-23q3v-e6214036e3.json
+/Traffic_Front\app\Colors.ts
+/Traffic_Front\app\DOMCoolCode.tsx
+/Traffic_Front\app\firebaseConfig.js
+/Traffic_Front\app\MapView.js
+/Traffic_Front\app\Test.tsx
+/Traffic_Front\app\ThemedText.tsx
+/Traffic_Front\app\ThemedView.tsx
+/Traffic_Front\app\useThemeColor.ts
+

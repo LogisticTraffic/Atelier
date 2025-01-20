@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "304845803113",
+    "project_id": "notification-ea157",
+    "storage_bucket": "notification-ea157.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304845803113:android:325e8941ef99fbc31e9cf8",
+        "android_client_info": {
+          "package_name": "com.anonymous.Traffic_Front"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-2yl7lt5gOKIGsC7wQUM4fpIyW5NWpI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304845803113:android:8f97131e0768f8f01e9cf8",
+        "android_client_info": {
+          "package_name": "com.frontEndTraffic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-2yl7lt5gOKIGsC7wQUM4fpIyW5NWpI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
